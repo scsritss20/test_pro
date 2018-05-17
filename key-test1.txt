@@ -1,0 +1,4 @@
+domain=cnsuning.com 
+
+
+secretKey=aaaaaa
